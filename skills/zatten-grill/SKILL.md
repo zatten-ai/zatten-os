@@ -3,7 +3,7 @@ name: zatten-grill
 description: Use quando houver uma decisão grande a fechar com a agência — desenhar o agente e o projeto de um cliente novo, o diagnóstico da agência, o escopo de uma proposta complexa, uma estratégia — em rodadas de perguntas com recomendação, numa página local com a marca da Zatten (ou no chat, sem Node). Também quando a pessoa disser "grill", "vamos fechar isso em perguntas" ou "/zatten-grill". Parte do Zatten-OS.
 compatibility: A página precisa de Node (sem instalar nada). Sem Node, ou sem um jeito de ouvir os envios, as mesmas rodadas acontecem no chat.
 metadata:
-  version: "4.0.0"
+  version: "4.1.0"
 ---
 
 # Zatten-OS · Grill: decisões grandes em rodadas de perguntas

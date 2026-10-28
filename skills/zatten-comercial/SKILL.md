@@ -3,7 +3,7 @@ name: zatten-comercial
 description: Use quando a agência quiser VENDER a solução de atendimento com IA a um cliente — diagnosticar um possível cliente, montar uma demo para ele, fazer uma proposta, calcular se a conta fecha (custo, preço, margem), responder objeção, fazer follow-up de proposta ou achar oportunidades de venda na carteira e em nichos novos. Parte do Zatten-OS; a configuração dos projetos é da zatten-ops.
 compatibility: Precisa do MCP da Zatten e de acesso à rede para ler docs.zatten.com. Usa as regras da zatten-ops.
 metadata:
-  version: "4.0.0"
+  version: "4.1.0"
 ---
 
 # Zatten-OS · Comercial: vender a solução da agência
