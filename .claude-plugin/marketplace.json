@@ -10,7 +10,7 @@
       "name": "zatten-os",
       "description": "Zatten-OS: operar, vender e tocar a agência na Zatten pelo assistente — projetos, agente de IA, demo, proposta, SDR e relatório mensal",
       "source": "./",
-      "version": "4.0.0"
+      "version": "4.1.0"
     }
   ]
 }

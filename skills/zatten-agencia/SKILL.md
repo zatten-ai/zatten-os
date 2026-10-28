@@ -3,7 +3,7 @@ name: zatten-agencia
 description: Use quando o assunto for o NEGÓCIO da agência na Zatten — conhecer e documentar a agência (diagnóstico, AGENCIA.md), montar o SDR da própria agência (um agente que atende e qualifica os leads dela e marca reunião), a rotina da semana (clientes por estágio, propostas abertas, pendências), o relatório mensal para um cliente final, avaliar como um agente está indo, ou crescer (novos nichos, escalar). Parte do Zatten-OS; a configuração dos projetos é da zatten-ops e a venda a um cliente é da zatten-comercial.
 compatibility: Precisa do MCP da Zatten e de acesso à rede para ler docs.zatten.com. Usa as regras da zatten-ops.
 metadata:
-  version: "4.0.0"
+  version: "4.1.0"
 ---
 
 # Zatten-OS · Agência: o negócio da agência
